@@ -1,0 +1,38 @@
+1)C:\Users\Yatharth>ping www.google.com
+
+Pinging www.google.com [2404:6800:4002:817::2004] with 32 bytes of data:
+Reply from 2404:6800:4002:817::2004: time=4ms
+Reply from 2404:6800:4002:817::2004: time=6ms
+Reply from 2404:6800:4002:817::2004: time=6ms
+Reply from 2404:6800:4002:817::2004: time=9ms
+
+Ping statistics for 2404:6800:4002:817::2004:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 9ms, Average = 6ms
+
+2)C:\Users\Yatharth>ping www.facebook.com
+
+Pinging star-mini.c10r.facebook.com [2a03:2880:f144:82:face:b00c:0:25de] with 32 bytes of data:
+Reply from 2a03:2880:f144:82:face:b00c:0:25de: time=6ms
+Reply from 2a03:2880:f144:82:face:b00c:0:25de: time=7ms
+Reply from 2a03:2880:f144:82:face:b00c:0:25de: time=7ms
+Reply from 2a03:2880:f144:82:face:b00c:0:25de: time=9ms
+
+Ping statistics for 2a03:2880:f144:82:face:b00c:0:25de:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 9ms, Average = 7ms
+
+3)C:\Users\Yatharth>ping www.whitehatjr.com
+
+Pinging www.whitehatjr.com.cdn.cloudflare.net [2606:4700:9642:a284:6e64:4:b99c:b18b] with 32 bytes of data:
+Reply from 2606:4700:9642:a284:6e64:4:b99c:b18b: time=4ms
+Reply from 2606:4700:9642:a284:6e64:4:b99c:b18b: time=11ms
+Reply from 2606:4700:9642:a284:6e64:4:b99c:b18b: time=5ms
+Reply from 2606:4700:9642:a284:6e64:4:b99c:b18b: time=26ms
+
+Ping statistics for 2606:4700:9642:a284:6e64:4:b99c:b18b:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 26ms, Average = 11ms
